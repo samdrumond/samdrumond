@@ -1,6 +1,6 @@
 ## About me
 Hi 🙋🏻 <br>
-I'm Sam, iOS Development Manager at Letras.mu.br 👨🏻‍💻 
+I'm Sam, iOS Development Manager at Letras.mus.br 👨🏻‍💻 
 
 
 ## Stats
